@@ -1,0 +1,28 @@
+.about {
+    background: #010101;
+}
+
+img.about_img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+h1.about__heading {
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-align: start;
+    font-family: Montserrat, sans-serif;
+    font-size: 3.0rem;
+}
+
+button.about.btn.pointer {
+    text-transform: capitalize;
+    width: 47,33vw;
+    height: 11,45vh;
+    font-size: 1.125;
+    transition: .4s ease;
+}
+
+.about__button {
+    padding: 1.25rem 0;
+}
