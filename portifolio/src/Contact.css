@@ -1,0 +1,54 @@
+.contact {
+    background-color: #191919;
+}
+
+h1.hire__text {
+    font-size: 3.75rem;
+}
+
+p.hire__text {
+    font-size: 1.125rem;
+    line-height: 1.875rem;
+    color: rgba(29, 29, 36, .75);
+    font-weight: 400;
+}
+
+input.contact {
+    display: block;
+    width: 100%;
+    padding: 0 1.25rem;
+    border: 2px solid rgba(0, 0, 0, .1);
+    border-radius: 5px;
+    -webkit-transition: all .3s ease;
+    height: 10.41vh;
+    line-height: 2.875rem;
+    margin: 1.25rem 0;
+    outline: none;
+    color: #fff;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    background: none;
+    border: 2px solid hsla(0, 0%, 100%, .2);
+}
+
+.contact__img {
+    border-radius: 0.625rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+textarea#message {
+    height: 25vh;
+    background: none;
+    padding: 0 1.25rem;
+    width: 100%;
+    line-height: 2.875rem;
+    color: #fff;
+    font-size: 1rem;
+    letter-spacing: .1px;
+    border: 2px solid hsla(0, 0%, 100%, .2);
+}
+
+button.btn.contact.pointer {
+    margin: 1.25rem 0;
+}
