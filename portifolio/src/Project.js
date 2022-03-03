@@ -6,7 +6,7 @@ import Project3 from './img/portfolio-3.jpg'
 
 const Project = () => {
   return (
-    <div className='project component__space'>
+    <div className='project component__space' id='Portifólio'>
          <div className="heading">
             <h1 className="heading">Meus Ultimos Projetos</h1>
             <p className="heading p__color">Existem muitas variações de passagens de lorem ipsum disponíveis</p>

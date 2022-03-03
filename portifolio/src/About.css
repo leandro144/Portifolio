@@ -26,3 +26,39 @@ button.about.btn.pointer {
 .about__button {
     padding: 1.25rem 0;
 }
+
+a.bottom__to__top {
+    height: 6vh;
+    width: 6vh;
+    position: fixed;
+    bottom: 3%;
+    right: 2%;
+    background-color: #f9004d;
+    border-radius: 50%;
+    cursor: pointer;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    transition: .4s all ease;
+    z-index: 1000;
+}
+
+a.bottom__to__top.active {
+    display: flex;
+}
+
+@media only screen and (max-width:1024px) {
+    .p__color {
+        font-size: 1rem!important;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    button.about.btn.pointer {
+        text-transform: capitalize;
+        width: 24vw;
+        height: 8vh;
+        font-size: 13px;
+        transition: .4s ease;
+    }
+}
