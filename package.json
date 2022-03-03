@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/leandro144/Portifolio#readme",
   "dependencies": {
+    "build": "^0.1.4",
     "express": "^4.17.3",
     "nodemon": "^2.0.15"
   }
