@@ -47,13 +47,13 @@ a.bottom__to__top.active {
     display: flex;
 }
 
-@media only screen and (max-width:1024px) {
+@media screen and (max-width:1024px) {
     .p__color {
         font-size: 1rem!important;
     }
 }
 
-@media only screen and (max-width:425px) {
+@media screen and (max-width:425px) {
     button.about.btn.pointer {
         text-transform: capitalize;
         width: 24vw;
