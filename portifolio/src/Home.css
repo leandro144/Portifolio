@@ -56,7 +56,15 @@ h4.home__text {
     background-color: #191919;
 }
 
+.toggle__menu {
+    display: none;
+}
+
 @media screen and (max-width:768px) {
+    .toggle__menu {
+        display: none;
+    }
+
     .header {
         justify-content: space-between;
     }
