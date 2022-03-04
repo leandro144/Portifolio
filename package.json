@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/leandro144/Portifolio/issues"
   },
-  "homepage": "https://github.com/leandro144/Portifolio#readme",
+  "homepage": "https://portifolioreact.herokuapp.com/",
   "dependencies": {
     "build": "^0.1.4",
     "express": "^4.17.3",
