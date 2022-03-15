@@ -22,13 +22,13 @@ const About = () => {
                 </h1>
                 <div className="about__meta">
                     <p className="about__text p__color">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore nulla ducimus excepturi. Obcaecati mollitia consectetur, praesentium veniam officia fuga aspernatur tenetur necessitatibus unde recusandae hic deserunt, reprehenderit tempore officiis voluptatem?
+                    Foi com muito entusiasmo que criei o meu portifólio, com o intuito de anunciar e mostrar um pouco dos meus serviços. Tenho a certeza imediata de que as minhas habilidades e experiência são adequadas para a ajudar ainda mais a divulgar a sua empresa.
                     </p>
                     <p className="about__text p__color">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore nulla ducimus excepturi. Obcaecati mollitia consectetur, praesentium veniam officia fuga aspernatur tenetur necessitatibus unde recusandae hic deserunt, reprehenderit tempore officiis voluptatem?
+                    Nos últimos 2 anos aprimorei minhas capacidades de criação e desenvolvimento de landing Pages, Blogs, Sistemas e Web Design. Na empresa onde trabalho atualmente, logo de cara desenvolvi um PWA, para melhoria da comunicação da empresa com os clientes. Além disso, tenho ótimos conhecimentos em Photoshop e HTML, CSS, JavaScript, ReactJS, entre outras tecnologias da programação.
                     </p>
                     <p className="about__text p__color">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore nulla ducimus excepturi. Obcaecati mollitia consectetur.
+                    Caso precise de alguma informação adicional entre em contato pelo número de telefone abaixo. Agradeço desde já pela atenção.
                     </p>
                     <div className="about__button d__flex aligm__items__center">
                         <a href="#"><button className='about btn pointer'>Download CV</button></a>
