@@ -1,7 +1,7 @@
 import React from 'react'
 import './Project.css';
-import Project1 from './img/portfolio-1.jpg'
-import Project2 from './img/portfolio-2.jpg'
+import Project1 from './img/portfolio-5.jpg'
+import Project2 from './img/portifolio-04.jpg'
 import Project3 from './img/portfolio-3.jpg'
 
 const Project = () => {
@@ -25,7 +25,7 @@ const Project = () => {
                   <div className="project__meta absolute">
                       <h5 className="project__text">Development</h5>
                       <h4 className="project__text">Site Gndi Notredame</h4>
-                      <a href="" className="project__btn">Ver Detalhes</a>
+                      <a href="https://www.gndiplanos.com.br/" className="project__btn">Ver Detalhes</a>
                   </div>
               </div>
             </div>
@@ -41,7 +41,7 @@ const Project = () => {
                   <div className="project__meta absolute">
                       <h5 className="project__text">Development</h5>
                       <h4 className="project__text">Site Corretora de Imóveis</h4>
-                      <a href="" className="project__btn">Ver Detalhes</a>
+                      <a href="https://sitesebastiao-souza.herokuapp.com/" className="project__btn">Ver Detalhes</a>
                   </div>
               </div>
             </div>
@@ -57,7 +57,7 @@ const Project = () => {
                   <div className="project__meta absolute">
                       <h5 className="project__text">Development</h5>
                       <h4 className="project__text">Blog Pessoal</h4>
-                      <a href="" className="project__btn">Ver Detalhes</a>
+                      <a href="https://622fda1645433e4a135110e6--portifolioleandrodevti.netlify.app/" className="project__btn">Ver Detalhes</a>
                   </div>
               </div>
             </div>

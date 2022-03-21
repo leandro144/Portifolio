@@ -6,8 +6,8 @@ const Service = () => {
     <div className='service component__space' id='Serviços'>
         <div className="heading">
             <h1 className="heading">Meus Incríveis Serviços</h1>
-            <p className="heading p__color">Existem muitas variações de passagens de lorem ipsum disponíveis</p>
-            <p className="heading p__color">mas a maioria sofreu alteração</p>
+            <p className="heading p__color">Um pouco dos meus projetos e serviços prestados</p>
+            <p className="heading p__color">aonde compartilho meus conhecimentos</p>
         </div>
         <div className="container">
             <div className="row">
@@ -17,15 +17,15 @@ const Service = () => {
                         <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"></path><line x1="2" y1="20" x2="2" y2="20"></line></svg>
                         </div>
                         <div className="service__meta">
-                            <h1 className="service__text">Website Development</h1>
+                            <h1 className="service__text">Desenvolvimento Web</h1>
                             <p className="p service__text p__color">
-                            I throw myself down among the
+                            Criação de Landing Pages
                             </p>
                             <p className="p service__text p__color">
-                            Tall grass by the strem as I lie
+                            Criação de Ecommerce 
                             </p>
                             <p className="p service__text p__color">
-                            Close to the earth
+                            Criação de Blogs e etc.
                             </p>
                         </div>
                     </div>
@@ -37,15 +37,15 @@ const Service = () => {
                         <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
                         </div>
                         <div className="service__meta">
-                            <h1 className="service__text">Development System</h1>
+                            <h1 className="service__text">Desenvolvimento Mobile</h1>
                             <p className="p service__text p__color">
-                            I throw myself down among the
+                            Desenvolvimento de aplicações 
                             </p>
                             <p className="p service__text p__color">
-                            Tall grass by the strem as I lie
+                            mobile, para as plataformas
                             </p>
                             <p className="p service__text p__color">
-                            Close to the earth
+                             Android e IOS
                             </p>
                         </div>
                     </div>
@@ -59,13 +59,13 @@ const Service = () => {
                         <div className="service__meta">
                             <h1 className="service__text">Web Design</h1>
                             <p className="p service__text p__color">
-                            I throw myself down among the
+                            Criação de Layouts, cartazes
                             </p>
                             <p className="p service__text p__color">
-                            Tall grass by the strem as I lie
+                            logotipos, cards e posts
                             </p>
                             <p className="p service__text p__color">
-                            Close to the earth
+                            para redes sociais.
                             </p>
                         </div>
                     </div>
@@ -77,4 +77,4 @@ const Service = () => {
   )
 }
 
-export default Service
+export default Service;

@@ -9,8 +9,8 @@ const Blog = () => {
     <div className="blog component__space" id='Blog'>
          <div className="heading">
             <h1 className="heading">Ultimas Noticias</h1>
-            <p className="heading p__color">Existem muitas variações de passagens de lorem ipsum disponíveis</p>
-            <p className="heading p__color">mas a maioria sofreu alteração</p>
+            <p className="heading p__color">Noticias do mundo todo, aqui voce fica informado.</p>
+            <p className="heading p__color">do que esta acontecendo no mundo!</p>
         </div>
         <div className="container">
             <div className="row">
@@ -23,9 +23,9 @@ const Blog = () => {
                     <div className="mask__effect"></div>
                   </div>
                   <div className="Blog__meta absolute">
-                      <h5 className="project__text">Development</h5>
-                      <h4 className="project__text">Getting tickets to the big show</h4>
-                      <a href="" className="blog project__btn btn">+ Noticias</a>
+                      <h5 className="project__text">Noticias</h5>
+                      <h4 className="project__text">Sobre o Racismo</h4>
+                      <a href="https://www.afpesp.org.br/noticias/opiniao/10-maneiras-de-se-combater-o-racismo" className="blog project__btn btn">+ Noticias</a>
                   </div>
               </div>
                 </div>
@@ -39,9 +39,9 @@ const Blog = () => {
                     <div className="mask__effect"></div>
                   </div>
                   <div className="Blog__meta absolute">
-                      <h5 className="project__text">Development</h5>
-                      <h4 className="project__text">Getting tickets to the big show</h4>
-                      <a href="" className="blog project__btn btn">+ Noticias</a>
+                      <h5 className="project__text">Noticias</h5>
+                      <h4 className="project__text">Tudo sobre a Moda</h4>
+                      <a href="https://veja.abril.com.br/noticias-sobre/moda/" className="blog project__btn btn">+ Noticias</a>
                   </div>
               </div>
                 </div>
@@ -55,9 +55,9 @@ const Blog = () => {
                     <div className="mask__effect"></div>
                   </div>
                   <div className="Blog__meta absolute">
-                      <h5 className="project__text">Development</h5>
-                      <h4 className="project__text">Getting tickets to the big show</h4>
-                      <a href="" className="blog project__btn btn">+ Noticias</a>
+                      <h5 className="project__text">Noticias</h5>
+                      <h4 className="project__text">Noticias sobre o mundo LGBTQIA+</h4>
+                      <a href="https://www.stoodi.com.br/blog/atualidades/movimento-lgbt-o-que-e/?utm_source=google&utm_medium=cpc&utm_term=&utm_content=&utm_campaign=perfomance-max-cronograma-lead&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi-CX2tVOeIQ-0W-OVlYe8BhJaN9gtSIB8MRclC141lgzK_WbcPwBkBoCBXUQAvD_BwE" className="blog project__btn btn">+ Noticias</a>
                   </div>
               </div>
                 </div>
@@ -67,4 +67,4 @@ const Blog = () => {
   )
 }
 
-export default Blog
+export default Blog;

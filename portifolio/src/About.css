@@ -2,6 +2,10 @@
     background: #010101;
 }
 
+button.btn {
+    font-size: 1rem!important;
+}
+
 img.about_img {
     border-radius: 10px;
     width: 100%;

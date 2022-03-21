@@ -11,7 +11,7 @@ const Contact = () => {
               <div className="contact__meta">
                 <h1 className="hire__text">Contrate-me</h1>
                 <p className="hire__text white">Estou disponível para trabalho freelancer. Conecte-se comigo pelo telefone:</p>
-                <p className="hire__text white"><strong>(11) 951685-5569</strong> Ou Email <strong>leandro_castro980@hotmail.com</strong> </p>
+                <p className="hire__text white"><strong>(11) 95168-5569</strong> ou Email <strong>leandro_castro980@hotmail.com</strong> </p>
               </div>
               <div className="input__box">
                 <input type="text" className="contact name" placeholder='Seu Nome ' />
